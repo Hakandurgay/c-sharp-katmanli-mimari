@@ -1,0 +1,5 @@
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\EntityLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\EntityLayer\obj\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,10 @@
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,8 @@
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\obj\Debug\FacadeLayer.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\bin\Debug\FacadeLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\bin\Debug\FacadeLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\obj\Debug\FacadeLayer.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\obj\Debug\FacadeLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\FacadeLayer\obj\Debug\FacadeLayer.pdb

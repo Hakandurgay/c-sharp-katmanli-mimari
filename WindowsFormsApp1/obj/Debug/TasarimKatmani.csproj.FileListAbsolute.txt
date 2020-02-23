@@ -1,0 +1,16 @@
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BusinessLogicLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FacadeLayer.dll
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BusinessLogicLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FacadeLayer.pdb
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TasarimKatmani.csprojAssemblyReference.cache
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TasarimKatmani.csproj.GenerateResource.cache
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TasarimKatmani.csproj.CopyComplete
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROGRAMLAMA\c#\MYUdemyKatmanlıMimari1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
